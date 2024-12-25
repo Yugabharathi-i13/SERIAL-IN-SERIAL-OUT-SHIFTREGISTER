@@ -59,11 +59,12 @@ Developed by:Yugabharathi.T RegisterNumber:24900006
 
 **RTL LOGIC FOR SISO Shift Register**
 
-![Screenshot 2024-12-25 165157](https://github.com/user-attachments/assets/66762df9-8eba-415e-bb46-b6c7fdb34a18)
+![392214203-12dec3fb-9932-47df-91a4-08b4b0d32cfe](https://github.com/user-attachments/assets/1fc32c6b-6f2f-438e-9295-170152696240)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![Screenshot 2024-12-25 165205](https://github.com/user-attachments/assets/c8c87b1c-6dc6-4bc2-96f0-420f8faeb21e)
+![392215485-3f4fc3f2-b8da-4e27-8e50-9ebd1cc484bd](https://github.com/user-attachments/assets/34d9e0b6-75f7-46ab-bdb9-b2dd17b45e44)
+
 
 **RESULT:**
 
